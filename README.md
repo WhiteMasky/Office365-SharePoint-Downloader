@@ -4,7 +4,7 @@ A Python script to automatically capture PowerPoint presentations from SharePoin
 
 ## Easy Start
 
-- For an easy start, click [here](#easy-start-guide).
+- For an easy start, click [here](easy-start-guide.md).
 
 ## 中文版
 
