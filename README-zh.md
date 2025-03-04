@@ -5,7 +5,7 @@
 ## 快速上手
 
 -  [快速启动手册](easy-start-guide.md).
--  
+  
 ## 功能特点
 
 - 自动导航到 SharePoint PowerPoint 演示文稿
