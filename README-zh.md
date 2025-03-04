@@ -2,6 +2,10 @@
 
 一个用于自动捕获 SharePoint 站点中 PowerPoint 演示文稿并转换为 PDF 的 Python 脚本。本项目不需要SharePoint的编辑权限，无需登录Microsoft Office365.
 
+## 快速上手
+
+-  [快速启动手册](easy-start-guide.md).
+-  
 ## 功能特点
 
 - 自动导航到 SharePoint PowerPoint 演示文稿
